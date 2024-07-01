@@ -1,9 +1,7 @@
 # 📙 SQL-Case-Studies
-_I’m currently working on updating this SQL project, and it does take some time to complete.😊_
-
-✅ means finished
-❌ not yet
-
+_I’m currently working on updating this SQL project, and it does take some time to complete.😊_  
+✅ Finished
+❌ Not Yet
 ---
 ## Case Studies
 ✅ Case Study No. 1 - [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-1---dannys-dinner)  
