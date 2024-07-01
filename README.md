@@ -1,7 +1,5 @@
-# 📙 SQL-Case-Studies
-
 ---
-## Case Studies
+## 📙 Case Studies
 ✅ Case Study No. 1 - [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-1---dannys-dinner)  
 ❌ Case Study No. 2 - [Pizza Runner](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-2---pizza-runner)  
 ✅ Case Study No. 3 - [Foodie-Fi](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-3---foodie-fi)  
