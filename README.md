@@ -20,6 +20,7 @@ _I’m currently working on updating this SQL project, and it does take some tim
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" align="center" width="350" height="350" >
 
 **Introduction:**
+
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
@@ -33,6 +34,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png" align="center" width="350" height="350" >
 
 **Introduction:**
+
 Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
 
 Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
@@ -61,6 +63,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/4.png" align="center" width="350" height="350" >
 
 **Introduction:**
+
 Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
 
 Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!
@@ -77,6 +80,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/5.png" align="center" width="350" height="350" >
 
 **Introduction:**
+
 Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - Danny is asking for your support to analyse his sales performance.
 
 In June 2020 - large scale supply changes were made at Data Mart. All Data Mart products now use sustainable packaging methods in every single step from the farm all the way to the customer.
@@ -99,6 +103,7 @@ The key business question he wants you to help him answer are the following:
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/6.png" align="center" width="350" height="350" >
 
 **Introduction:**
+
 Clique Bait is not like your regular online seafood store - the founder and CEO Danny, was also a part of a digital data analytics team and wanted to expand his knowledge into the seafood industry!
 
 In this case study - you are required to support Danny’s vision and analyse his dataset and come up with creative solutions to calculate funnel fallout rates for the Clique Bait online store.
@@ -113,6 +118,7 @@ In this case study - you are required to support Danny’s vision and analyse hi
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/7.png" align="center" width="350" height="350" >
 
 **Introduction:**
+
 Balanced Tree Clothing Company prides themselves on providing an optimised range of clothing and lifestyle wear for the modern adventurer!
 
 Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business.
@@ -127,6 +133,7 @@ Danny, the CEO of this trendy fashion company has asked you to assist the team�
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/8.png" align="center" width="350" height="350" >
 
 **Introduction:**
+
 Danny created Fresh Segments, a digital marketing agency that helps other businesses analyse trends in online ad click behaviour for their unique customer base.
 
 Clients share their customer lists with the Fresh Segments team who then aggregate interest metrics and generate a single dataset worth of metrics for further analysis.
