@@ -63,7 +63,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%203%20-%20Foodie-Fi)
 
 
-## Case Study No. 4 - Data Rank
+## 📊 Case Study No. 4 - Data Rank
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/4.png" align="center" width="350" height="350" >
 
@@ -80,7 +80,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 
 
 ---
-## Case Study No. 5 - Data Mart
+## 🛒 Case Study No. 5 - Data Mart
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/5.png" align="center" width="350" height="350" >
 
@@ -103,7 +103,7 @@ The key business question he wants you to help him answer are the following:
 
 
 ---
-## Case Study No. 6 - Clique Bait
+## 🐠 Case Study No. 6 - Clique Bait
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/6.png" align="center" width="350" height="350" >
 
@@ -118,7 +118,7 @@ In this case study - you are required to support Danny’s vision and analyse hi
 
 
 ---
-## Case Study No. 7 - Balances Tree Clothing Co
+## 👗 Case Study No. 7 - Balances Tree Clothing Co
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/7.png" align="center" width="350" height="350" >
 
@@ -133,7 +133,7 @@ Danny, the CEO of this trendy fashion company has asked you to assist the team�
 
 
 ---
-## Case Study No. 8 - Fresh Segments
+## 🍊 Case Study No. 8 - Fresh Segments
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/8.png" align="center" width="350" height="350" >
 
