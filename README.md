@@ -24,8 +24,8 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-1/)  
-💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%201%20-%20Danny's%20Dinner)
+🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-1/)  
+💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%201%20-%20Danny's%20Dinner)
 
 ---
 ## 🍕 Case Study No. 2 - Pizza Runner
@@ -42,8 +42,8 @@ Danny was sold on the idea, but he knew that pizza alone was not going to help h
 
 Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-2/)  
-💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%202%20-%20Pizza%20Runner)
+🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-2/)  
+💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%202%20-%20Pizza%20Runner)
 
 
 ---
@@ -59,8 +59,8 @@ Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and 
 
 Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-3/)  
-💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%203%20-%20Foodie-Fi)
+🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-3/)  
+💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%203%20-%20Foodie-Fi)
 
 
 ## Case Study No. 4 - Data Rank
@@ -75,8 +75,8 @@ Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and 
 
 Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-4/)  
-💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%204%20-%20Data%20Rank)
+🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-4/)  
+💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%204%20-%20Data%20Rank)
 
 
 ---
@@ -98,8 +98,8 @@ The key business question he wants you to help him answer are the following:
 * Which platform, region, segment and customer types were the most impacted by this change?
 * What can we do about future introduction of similar sustainability updates to the business to minimise impact on sales?
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-5/)  
-💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%205%20-%20Data%20Mart)
+🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-5/)  
+💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%205%20-%20Data%20Mart)
 
 
 ---
@@ -113,8 +113,8 @@ Clique Bait is not like your regular online seafood store - the founder and CEO 
 
 In this case study - you are required to support Danny’s vision and analyse his dataset and come up with creative solutions to calculate funnel fallout rates for the Clique Bait online store.
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-6/)  
-💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%206%20-%20Clique%20Bait)
+🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-6/)  
+💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%206%20-%20Clique%20Bait)
 
 
 ---
@@ -128,8 +128,8 @@ Balanced Tree Clothing Company prides themselves on providing an optimised range
 
 Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business.
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-7/)  
-💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%207%20-%20Balances%20Tree%20Clothing%20Co)
+🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-7/)  
+💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%207%20-%20Balances%20Tree%20Clothing%20Co)
 
 
 ---
@@ -147,8 +147,8 @@ In particular - the composition and rankings for different interests are provide
 
 Danny has asked for your assistance to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests.
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-8/)  
-💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%208%20-%20Fresh%20Segments)
+🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-8/)  
+💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%208%20-%20Fresh%20Segments)
 
 
 
