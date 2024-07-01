@@ -1,8 +1,7 @@
 # SQL-Case-Studies
 
 
-## Case Study No. 1 - Danny's Dinner
-##* [Case Study No. 1 - Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%201%20-%20Danny's%20Dinner)
+Case Study No. 1 - [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%201%20-%20Danny's%20Dinner)
 
 ## Case Study No. 2 - Pizza Runner
 ## Case Study No. 3 - Foodie-Fi
