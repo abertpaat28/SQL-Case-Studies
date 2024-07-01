@@ -7,12 +7,19 @@ _I’m currently working on updating this SQL project, and it does take some tim
 ---
 ## Case Studies
 ✅ Case Study No. 1 - [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-1---dannys-dinner) 
+
 ❌ Case Study No. 2 - [Pizza Runner](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-2---pizza-runner) 
+
 ✅ Case Study No. 3 - [Foodie-Fi](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-3---foodie-fi) 
+
 ❌ Case Study No. 4 - [Data Rank](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-4---data-rank) 
+
 ❌ Case Study No. 5 - [Data Mart](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-5---data-mart) 
+
 ❌ Case Study No. 6 - [Clique Bait](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-6---clique-bait) 
+
 ❌ Case Study No. 7 - [Balances Tree Clothing Co](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-7---balances-tree-clothing-co) 
+
 ❌ Case Study No. 8 - [Fresh Segments](https://github.com/abertpaat28/SQL-Case-Studies#case-study-no-7---balances-tree-clothing-co) 
 
 
@@ -28,7 +35,7 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
-🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-1/) 
+🔒 [View the case study here](https://8weeksqlchallenge.com/case-study-1/)   
 💡 [View my solution here](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%201%20-%20Danny's%20Dinner)
 
 ---
