@@ -20,7 +20,8 @@ _I’m currently working on updating this SQL project, and it does take some tim
 ---
 ## Case Study No. 1 - Danny's Dinner
 <p align="center">
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" align="center" width="400" height="200" >
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" align="center" width="600" height="300" >
+
 ### Introduction:
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
