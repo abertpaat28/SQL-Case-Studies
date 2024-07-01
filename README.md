@@ -9,7 +9,7 @@
 ❌ Case Study No. 7 - [Balances Tree Clothing Co](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#case-study-no-7---balances-tree-clothing-co)  
 ❌ Case Study No. 8 - [Fresh Segments](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#case-study-no-8---fresh-segments)  
 
-I’m currently working on updating this SQL project, and it does take some time to complete.😊  
+_I’m currently working on updating this SQL project, and it does take some time to complete.😊_  
 ✅ Finished  
 ❌ Not Yet  
 
