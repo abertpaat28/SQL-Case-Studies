@@ -1,5 +1,5 @@
 # 📙 SQL-Case-Studies
-
+---
 I’m currently working on updating this SQL project, and it does take some time to complete.😊  
 ✅ Finished  
 ❌ Not Yet  
