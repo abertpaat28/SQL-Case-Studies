@@ -1,4 +1,4 @@
----
+
 ## 📙 Case Studies
 ✅ Case Study No. 1 - [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#-case-study-no-1---dannys-dinner)  
 ❌ Case Study No. 2 - [Pizza Runner](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#-case-study-no-2---pizza-runner)  
