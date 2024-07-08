@@ -1,13 +1,13 @@
 
 ## 📙 Case Studies
-✅ Case Study No. 1 - [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#-case-study-no-1---dannys-dinner)  
-❌ Case Study No. 2 - [Pizza Runner](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#-case-study-no-2---pizza-runner)  
-✅ Case Study No. 3 - [Foodie-Fi](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#-case-study-no-3---foodie-fi)  
-❌ Case Study No. 4 - [Data Rank](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#case-study-no-4---data-rank)  
-❌ Case Study No. 5 - [Data Mart](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#case-study-no-5---data-mart)  
-❌ Case Study No. 6 - [Clique Bait](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#case-study-no-6---clique-bait)  
-❌ Case Study No. 7 - [Balances Tree Clothing Co](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#case-study-no-7---balances-tree-clothing-co)  
-❌ Case Study No. 8 - [Fresh Segments](https://github.com/abertpaat28/SQL-Case-Studies?tab=readme-ov-file#case-study-no-8---fresh-segments)  
+✅ Case Study No. 1 - [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies?#-case-study-no-1---dannys-dinner)  
+❌ Case Study No. 2 - [Pizza Runner](https://github.com/abertpaat28/SQL-Case-Studies?#-case-study-no-2---pizza-runner)  
+✅ Case Study No. 3 - [Foodie-Fi](https://github.com/abertpaat28/SQL-Case-Studies?#-case-study-no-3---foodie-fi)  
+❌ Case Study No. 4 - [Data Rank](https://github.com/abertpaat28/SQL-Case-Studies?#case-study-no-4---data-rank)  
+❌ Case Study No. 5 - [Data Mart](https://github.com/abertpaat28/SQL-Case-Studies?#case-study-no-5---data-mart)  
+❌ Case Study No. 6 - [Clique Bait](https://github.com/abertpaat28/SQL-Case-Studies?#case-study-no-6---clique-bait)  
+❌ Case Study No. 7 - [Balances Tree Clothing Co](https://github.com/abertpaat28/SQL-Case-Studies?#case-study-no-7---balances-tree-clothing-co)  
+❌ Case Study No. 8 - [Fresh Segments](https://github.com/abertpaat28/SQL-Case-Studies?#case-study-no-8---fresh-segments)  
 
 _I’m currently working on updating this SQL project, and it does take some time to complete.😊_  
 ✅ Finished  
