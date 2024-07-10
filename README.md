@@ -16,14 +16,14 @@ _I’m currently working on updating this SQL project, and it does take some tim
 
 ---
 ## 🍜 Case Study No. 1 - Danny's Dinner
-<p align="center">
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" align="center" width="350" height="350" >
-
 **Introduction:**
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
+
+<p align="center">
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" align="center" width="350" height="350" >
 
 🔥 I extracted valuable business metrics and KPIs which can guide decision-making and enhance overall business performance.  
 - I calculated the sum of all transactions for each customer. This metric helps understand individual customer spending patterns.  
