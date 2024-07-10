@@ -26,9 +26,9 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
 
-I extracted valuable business metrics and KPIs which can guide decision-making and enhance overall business performance.  
-* I calculated the sum of all transactions for each customer. This metric helps understand individual customer spending patterns.  
-* I counted the unique days each customer visited the restaurant. This KPI provides insights into customer loyalty and frequency.
+🔥 I extracted valuable business metrics and KPIs which can guide decision-making and enhance overall business performance.  
+* I calculated the sum of all transactions for each customer. **This metric helps understand individual customer spending patterns.**  
+* I counted the unique days each customer visited the restaurant. _This KPI provides insights into customer loyalty and frequency._
 * I identified the initial menu item purchased by each customer. Useful for understanding preferences and potential upselling opportunities.
 * I determined the item that was bought the most across all customers. This KPI highlights the restaurant's popular offerings.
 * I determined the most frequently purchased item for each customer. Helps personalize marketing and promotions.
