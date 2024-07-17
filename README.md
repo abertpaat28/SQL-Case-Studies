@@ -76,17 +76,17 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%203%20-%20Foodie-Fi)
 
 
-## 📊 Case Study No. 4 - Data Rank
+## 📊 Case Study No. 4 - Data Bank
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/4.png" align="center" width="350" height="350" >
 
 **Introduction:**
 
-Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
+There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches.
 
-Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!
+Danny thought that there should be some sort of intersection between these new age banks, cryptocurrency and the data world…so he decides to launch a new initiative - Data Bank!
 
-Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
+Data Bank runs just like any other digital bank - but it isn’t only for banking activities, they also have the world’s most secure distributed data storage platform!
 
 🔒 [_view the case study here_](https://8weeksqlchallenge.com/case-study-4/)  
 💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%204%20-%20Data%20Rank)
