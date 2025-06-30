@@ -164,7 +164,6 @@ Danny has asked for your assistance to analyse aggregated metrics for an example
 💡 [_view my solution here_](https://github.com/abertpaat28/SQL-Case-Studies/tree/main/Case%20Study%20No.%208%20-%20Fresh%20Segments)
 
 
-
 ---
 
 
